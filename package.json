@@ -1,0 +1,34 @@
+{
+  "name": "prettier-config-rive",
+  "version": "1.0.0",
+  "description": "Prettier shareable configuration for RiVE projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "stylelint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoyunhe/prettier-config-rive.git"
+  },
+  "keywords": [
+    "rive",
+    "prettier",
+    "prettier-config",
+    "standard"
+  ],
+  "author": "Guo Yunhe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guoyunhe/prettier-config-rive/issues"
+  },
+  "homepage": "https://github.com/guoyunhe/prettier-config-rive#readme",
+  "dependencies": {
+    "prettier-plugin-packagejson": "^2.4.9"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.2"
+  },
+  "peerDependencies": {
+    "prettier": "^3.0.0"
+  }
+}

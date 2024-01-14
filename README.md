@@ -1,2 +1,3 @@
 # prettier-config-rive
-Shareable Prettier configuration for RiVE projects
+
+Prettier shareable configuration for RiVE projects.
